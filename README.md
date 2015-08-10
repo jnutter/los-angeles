@@ -11,6 +11,7 @@ To sign up for the next event, please visit: http://nodeschool.io/los-angeles
 
 **Mentors**
  * [@jcblw] (http://github.com/jcblw)
+ * [@jnutter] (http://github.com/jnutter)
 
 **General Helpers**
  * [@d48](https://github.com/d48)
